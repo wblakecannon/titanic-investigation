@@ -1,4 +1,3 @@
-# titanic-investigation
 # Analysis of Titanic Passenger Data
 
 blake@caprinomics.com

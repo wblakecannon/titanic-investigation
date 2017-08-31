@@ -19,3 +19,10 @@ Second, there will be some data exploration. This will be completed mostly by lo
 Third, the data will be analyzed.
 
 Lastly, a function has been created where a user can input their personal information to see their probability of surviving the Titanic disaster.
+
+# Files
+- DAND.yml (Anaconda/Python environment)
+- titanic-data.csv (the dataset used for the analysis from Kaggle)
+- titanic-investigation.html (html version of the analysis for passive viewing)
+- titanic-investigation.ipynb (Jupyter Notebook analysis to active viewing, use, and editing)
+
